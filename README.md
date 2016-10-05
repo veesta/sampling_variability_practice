@@ -1,0 +1,2 @@
+# sampling_variability_practice
+Sampling variability handout
